@@ -20,7 +20,7 @@ The purpose of the image classification model is to automatically identify and c
 
 **Common Name:** Butterfly Pea  
 **Scientific Name:** Clitoria ternatea  
-**Description:** Butterfly Pea is a perennial climbing vine known for its striking blue, butterfly-shaped flowers. It belongs to the legume family (Fabaceae) and is native to tropical Asia. The plant can grow up to 1–2 meters in height and produces bright green, oval leaves along its slender stems. Its flowers are often used as a natural food coloring, in herbal teas, and for medicinal purposes.
+**Description:** Butterfly Pea is a tropical perennial vine with vibrant blue, butterfly-shaped flowers. It grows 1–2 m tall, has bright green oval leaves, and is used in herbal teas, natural food coloring, and traditional medicine.
 
 ---
 
@@ -31,6 +31,20 @@ The purpose of the image classification model is to automatically identify and c
 **Description:** A fast-growing leguminous tree with small, feathery leaves, commonly used for fodder, green manure, and soil improvement.
 
 ---
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fd7ebeaa-3761-498a-adb6-9aa3554249a2" />
+
+**Common Name:** Lemon Verbena  
+**Scientific Name:** Aloysia citrodora  
+**Description:** A fragrant perennial shrub with long, narrow leaves, known for its strong lemon scent and used in teas, cooking, and herbal remedies.
+
+---
+
+<img width="1467" height="2200" alt="image" src="https://github.com/user-attachments/assets/12b82518-11f9-41d8-9d78-ec145712a0ff" />
+
+**Common Name:**   
+**Scientific Name:**
+**Description:**
 
 
 
