@@ -40,7 +40,7 @@ The purpose of the image classification model is to automatically identify and c
 
 ---
 
-<img width="1467" height="2200" alt="image" src="https://github.com/user-attachments/assets/12b82518-11f9-41d8-9d78-ec145712a0ff" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/12b82518-11f9-41d8-9d78-ec145712a0ff" />
 
 **Common Name:**   
 **Scientific Name:**
