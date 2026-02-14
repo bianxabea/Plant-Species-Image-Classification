@@ -16,7 +16,8 @@ The purpose of the image classification model is to automatically identify and c
 
 ## B. Plant Species Section
 
-Butterfly Pea.jpg
+![Alt text](https://github.com/username/repo-name/raw/main/image.png)
+
 
 
 
