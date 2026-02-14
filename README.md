@@ -2,16 +2,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Project Review](#project-review)
-- [Plant Species Section](#plant-species-section)
-- [Model Training Details](#model-training-details)
-- [Model Evaluation](#model-evaluation)
-- [Model Testing](#model-testing)
-
----
-
 ## A. Project Review
 
 ### Brief description of the project
