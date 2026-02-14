@@ -16,7 +16,8 @@ The purpose of the image classification model is to automatically identify and c
 
 ## B. Plant Species Section
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e386647b-14f4-4ac6-9457-f2b186b86576" />
+![Alt text]([https://example.com/image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKsNSglsE2C8yne4jKhTC7IR5dzQxEk4nHw&s))
+
 
 
 
