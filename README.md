@@ -22,6 +22,7 @@ The purpose of the image classification model is to automatically identify and c
 **Scientific Name:** Clitoria ternatea  
 **Description:** Butterfly Pea is a perennial climbing vine known for its striking blue, butterfly-shaped flowers. It belongs to the legume family (Fabaceae) and is native to tropical Asia. The plant can grow up to 1–2 meters in height and produces bright green, oval leaves along its slender stems. Its flowers are often used as a natural food coloring, in herbal teas, and for medicinal purposes.
 
+--
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f9a04efe-4028-435f-adb2-bd41af7a337c"/>
 
