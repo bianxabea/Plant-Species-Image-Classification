@@ -18,6 +18,10 @@ The purpose of the image classification model is to automatically identify and c
 
 <img src="https://github.com/user-attachments/assets/6ae0090d-c926-4745-8b59-2210f2706181" alt="Butterfly Pea" width="300" height="300"/>
 
+Common Name: **Butterfly Pea**
+Scientific Name:
+Description:
+
 
 
 
