@@ -12,7 +12,7 @@ The project focuses on the classification of **herbal plants** through image rec
 
 The purpose of the image classification model is to automatically identify and classify different herbal plants based on their visual features such as leaf shape, color, and texture. It uses a trained dataset to accurately recognize selected medicinal herbs, making plant identification faster and more reliable for educational and research purposes.
 
------
+---
 
 ## B. Plant Species Section
 
@@ -29,6 +29,8 @@ The purpose of the image classification model is to automatically identify and c
 **Common Name:** Katakataka  
 **Scientific Name:** Leucaena leucocephala  
 **Description:** A fast-growing leguminous tree with small, feathery leaves, commonly used for fodder, green manure, and soil improvement.
+
+---
 
 
 
