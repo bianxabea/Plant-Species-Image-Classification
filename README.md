@@ -278,46 +278,6 @@ The purpose of the image classification model is to automatically identify and c
 
 <img width="375" height="798" alt="image" src="https://github.com/user-attachments/assets/6561ac93-46f8-47dd-b559-8e972ca5de95" />
 
-### Test 11.
-
-<img width="366" height="801" alt="image" src="https://github.com/user-attachments/assets/d89c8267-5a80-49ce-b9da-2b29bd3442c8" />
-
-### Test 12.
-
-<img width="362" height="798" alt="image" src="https://github.com/user-attachments/assets/c6c5e3b2-122e-45b2-bfbd-037ea819e1d3" />
-
-### Test 13.
-
-<img width="366" height="801" alt="image" src="https://github.com/user-attachments/assets/97f31c65-2a77-4e60-9e0b-d7c97f084595" />
-
-### Test 14.
-
-<img width="366" height="801" alt="image" src="https://github.com/user-attachments/assets/ede2eac0-fdef-4401-b490-6659a49e2fb8" />
-
-### Test 15.
-
-<img width="370" height="795" alt="image" src="https://github.com/user-attachments/assets/49ddc054-9dd1-46e8-86b6-0e6bc51397a3" />
-
-### Test 16.
-
-<img width="371" height="798" alt="image" src="https://github.com/user-attachments/assets/447993e6-1f82-4f6e-a946-96dcb3b063e2" />
-
-### Test 17.
-
-<img width="366" height="802" alt="image" src="https://github.com/user-attachments/assets/d499e225-87d6-4d0a-89cc-8343d13472e9" />
-
-### Test 18.
-
-<img width="365" height="800" alt="image" src="https://github.com/user-attachments/assets/8a6d6131-2a3f-4d70-bf1c-88d81b271d61" />
-
-### Test 19.
-
-<img width="359" height="792" alt="image" src="https://github.com/user-attachments/assets/7e526e9c-8e9c-49dc-9cc2-f6f2355f6639" />
-
-### Test 20.
-
-<img width="364" height="799" alt="image" src="https://github.com/user-attachments/assets/0ce5eb36-3f5d-4960-b57e-9c1630544aef" />
-
 ---
 
 ## Reflection Questions
