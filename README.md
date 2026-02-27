@@ -222,11 +222,15 @@ The purpose of the image classification model is to automatically identify and c
 
 ### 1. Confusion Matrix
 
-<img width="470" height="126" alt="image" src="https://github.com/user-attachments/assets/26014e92-422e-423e-b32a-42ac5c8aa215" />
+<img width="313" height="704" alt="image" src="https://github.com/user-attachments/assets/ad86c575-73e7-4910-b5e6-13796b3c5f05" />  
+
+<img width="312" height="716" alt="image" src="https://github.com/user-attachments/assets/bd48e5f6-02ff-49be-9b05-c902bd1b9e73" />  
+
+<img width="351" height="701" alt="image" src="https://github.com/user-attachments/assets/6826b7ad-6fd0-4b1a-a95f-fe427e94c901" />
 
 ### 2. Accuracy Per Class
 
-<img width="470" height="126" alt="image" src="https://github.com/user-attachments/assets/0611f053-9123-4935-b9ba-aff6643e31bc" />
+<img width="371" height="770" alt="image" src="https://github.com/user-attachments/assets/09291093-e92b-4835-bd24-ccd483716529" />
 
 ### 3. Accuracy Per Epoch
 
